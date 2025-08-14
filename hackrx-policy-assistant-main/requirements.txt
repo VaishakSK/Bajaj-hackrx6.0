@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+httpx
+python-multipart
+python-docx
+pypdf
+pdfplumber
+openai
+pinecone
+sqlalchemy
+psycopg2-binary
+python-dotenv
+tqdm
+langchain>=0.0.0
+requests
+pydantic
+sentence-transformers
